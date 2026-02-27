@@ -1,0 +1,523 @@
+{
+  "requested_at": "2026-01-24T12:25:25.430098Z",
+  "request": {
+    "id": "f6aebc9c-2176-4c7f-9067-a181878d17e4",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsIjoiSjRMUi1KSU05LTJaQUstTkpSOC1GNEQ5IiwiZSI6MTc3MTkyNTY5NywiYyI6MTc2OTI1NzUxODYzMn0.8jt3TTf8VwK7Mq52-V70Q78aye8_JtfboAh0Z47Jmjk",
+    "player": "korbenteamtop1",
+    "language": "ru",
+    "region": "RU",
+    "mode": "REGULAR",
+    "gameplay": "ctf",
+    "arena": "spaces/31_airfield",
+    "team": 1,
+    "tank": "ussr:R210_ISU_2SH",
+    "level": 8,
+    "type": "SPG",
+    "role": "role_SPG_assault",
+    "health": 1.0,
+    "position": {
+      "x": 341,
+      "z": -209
+    },
+    "time": 60,
+    "allyFrags": 0,
+    "enemyFrags": 0,
+    "allyHealth": 17800,
+    "enemyHealth": 17800,
+    "allyMaxHealth": 17800,
+    "enemyMaxHealth": 17800,
+    "allyRoles": [
+      "role_SPG_assault",
+      "role_ATSPG_assault",
+      "role_MT_universal",
+      "role_HT_assault",
+      "role_ATSPG_support",
+      "role_SPG",
+      "role_HT_assault",
+      "role_MT_universal",
+      "role_ATSPG_sniper",
+      "role_MT_sniper",
+      "role_LT_wheeled",
+      "role_HT_support",
+      "role_HT_assault",
+      "role_ATSPG_support",
+      "role_ATSPG_universal"
+    ],
+    "allyTypes": [
+      "SPG",
+      "AT",
+      "MT",
+      "HT",
+      "AT",
+      "SPG",
+      "HT",
+      "MT",
+      "AT",
+      "MT",
+      "LT",
+      "HT",
+      "HT",
+      "AT",
+      "AT"
+    ],
+    "allyLevels": [
+      8,
+      9,
+      9,
+      8,
+      7,
+      7,
+      9,
+      7,
+      7,
+      9,
+      8,
+      8,
+      7,
+      9,
+      7
+    ],
+    "enemyRoles": [
+      "role_SPG_assault",
+      "role_ATSPG_assault",
+      "role_MT_universal",
+      "role_HT_assault",
+      "role_ATSPG_support",
+      "role_SPG",
+      "role_HT_assault",
+      "role_MT_universal",
+      "role_ATSPG_sniper",
+      "role_MT_sniper",
+      "role_LT_wheeled",
+      "role_HT_support",
+      "role_HT_assault",
+      "role_ATSPG_support",
+      "role_ATSPG_universal"
+    ],
+    "enemyTypes": [
+      "SPG",
+      "AT",
+      "MT",
+      "HT",
+      "AT",
+      "SPG",
+      "HT",
+      "MT",
+      "AT",
+      "MT",
+      "LT",
+      "HT",
+      "HT",
+      "AT",
+      "AT"
+    ],
+    "enemyLevels": [
+      8,
+      9,
+      9,
+      8,
+      7,
+      7,
+      9,
+      7,
+      7,
+      9,
+      8,
+      8,
+      7,
+      9,
+      7
+    ],
+    "license": "J4LR-JIM9-2ZAK-NJR8-F4D9"
+  },
+  "http_status": 200,
+  "response": {
+    "status": "ok",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsIjoiSjRMUi1KSU05LTJaQUstTkpSOC1GNEQ5IiwiZSI6MTc3MTkyNTY5NywiYyI6MTc2OTI1NzUyMDIxMH0.YHj34ii2UNHHPvTYeiryYv53gjyB_azGuCNIcIlZXow",
+    "positions": {
+      "polygons": [
+        {
+          "efficiency": 0.8999999999999999,
+          "area": [
+            [
+              130,
+              75
+            ],
+            [
+              135,
+              75
+            ],
+            [
+              135,
+              70
+            ],
+            [
+              135,
+              65
+            ],
+            [
+              140,
+              65
+            ],
+            [
+              145,
+              65
+            ],
+            [
+              150,
+              65
+            ],
+            [
+              155,
+              65
+            ],
+            [
+              160,
+              65
+            ],
+            [
+              165,
+              65
+            ],
+            [
+              170,
+              65
+            ],
+            [
+              175,
+              65
+            ],
+            [
+              180,
+              65
+            ],
+            [
+              185,
+              65
+            ],
+            [
+              185,
+              70
+            ],
+            [
+              185,
+              75
+            ],
+            [
+              185,
+              80
+            ],
+            [
+              190,
+              80
+            ],
+            [
+              190,
+              85
+            ],
+            [
+              195,
+              85
+            ],
+            [
+              195,
+              90
+            ],
+            [
+              195,
+              95
+            ],
+            [
+              190,
+              95
+            ],
+            [
+              190,
+              100
+            ],
+            [
+              185,
+              100
+            ],
+            [
+              185,
+              105
+            ],
+            [
+              185,
+              110
+            ],
+            [
+              185,
+              115
+            ],
+            [
+              180,
+              115
+            ],
+            [
+              175,
+              115
+            ],
+            [
+              170,
+              115
+            ],
+            [
+              165,
+              115
+            ],
+            [
+              160,
+              115
+            ],
+            [
+              155,
+              115
+            ],
+            [
+              150,
+              115
+            ],
+            [
+              150,
+              110
+            ],
+            [
+              150,
+              105
+            ],
+            [
+              145,
+              105
+            ],
+            [
+              145,
+              100
+            ],
+            [
+              140,
+              100
+            ],
+            [
+              135,
+              100
+            ],
+            [
+              135,
+              95
+            ],
+            [
+              130,
+              95
+            ],
+            [
+              130,
+              90
+            ],
+            [
+              130,
+              85
+            ],
+            [
+              130,
+              80
+            ]
+          ]
+        }
+      ],
+      "points": [],
+      "idealPoints": [
+        {
+          "efficiency": 1,
+          "position": [
+            167.5,
+            97.5
+          ]
+        }
+      ],
+      "heatmap": {
+        "data": [
+          [
+            127.5,
+            82.5,
+            0.26487949875963507
+          ],
+          [
+            132.5,
+            77.5,
+            0.2926593714921623
+          ],
+          [
+            132.5,
+            82.5,
+            0.3069202234574801
+          ],
+          [
+            147.5,
+            82.5,
+            0.30887720680031716
+          ],
+          [
+            147.5,
+            87.5,
+            0.31039005122950747
+          ],
+          [
+            152.5,
+            77.5,
+            0.3243833655751242
+          ],
+          [
+            152.5,
+            82.5,
+            0.5474304066797565
+          ],
+          [
+            152.5,
+            87.5,
+            0.4067398669827288
+          ],
+          [
+            157.5,
+            77.5,
+            0.3775374858521096
+          ],
+          [
+            157.5,
+            82.5,
+            0.7018075724389229
+          ],
+          [
+            157.5,
+            87.5,
+            0.6379153404729752
+          ],
+          [
+            157.5,
+            92.5,
+            0.34459066204211514
+          ],
+          [
+            157.5,
+            97.5,
+            0.2862973271378113
+          ],
+          [
+            162.5,
+            77.5,
+            0.46472952162861725
+          ],
+          [
+            162.5,
+            82.5,
+            0.737249700566901
+          ],
+          [
+            162.5,
+            87.5,
+            0.7591498086214853
+          ],
+          [
+            162.5,
+            92.5,
+            0.7839960724533932
+          ],
+          [
+            162.5,
+            97.5,
+            0.8791092156996543
+          ],
+          [
+            162.5,
+            102.5,
+            0.6266989668275845
+          ],
+          [
+            167.5,
+            77.5,
+            0.49877272969019254
+          ],
+          [
+            167.5,
+            82.5,
+            0.6188865429887405
+          ],
+          [
+            167.5,
+            87.5,
+            0.5991936373399167
+          ],
+          [
+            167.5,
+            92.5,
+            0.8263903590017833
+          ],
+          [
+            167.5,
+            97.5,
+            1
+          ],
+          [
+            167.5,
+            102.5,
+            0.741682238381368
+          ],
+          [
+            172.5,
+            77.5,
+            0.3390003544476358
+          ],
+          [
+            172.5,
+            82.5,
+            0.3642647388527453
+          ],
+          [
+            172.5,
+            87.5,
+            0.32815323869337415
+          ],
+          [
+            172.5,
+            92.5,
+            0.46335848746760444
+          ],
+          [
+            172.5,
+            97.5,
+            0.5032131029424224
+          ],
+          [
+            172.5,
+            102.5,
+            0.3469327940381397
+          ],
+          [
+            187.5,
+            82.5,
+            0.32390918842102906
+          ]
+        ],
+        "step": 5
+      },
+      "popularHeatmap": {
+        "data": [],
+        "step": 5
+      },
+      "spotPoints": []
+    },
+    "statistics": {
+      "count": 428,
+      "tag": [
+        "ussr:R210_ISU_2SH"
+      ],
+      "info": "s19 m2279 a2701"
+    },
+    "message": {
+      "type": "info",
+      "value": "#VGxof x428 s19 m2279 a2701"
+    }
+  },
+  "raw_body": null
+}

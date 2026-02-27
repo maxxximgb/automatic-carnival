@@ -1,0 +1,544 @@
+{
+  "requested_at": "2026-01-24T12:29:12.259245Z",
+  "request": {
+    "id": "0235cf3e-4a6d-4505-9b4c-6b3414a8579e",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsIjoiSjRMUi1KSU05LTJaQUstTkpSOC1GNEQ5IiwiZSI6MTc3MTkyNTY5NywiYyI6MTc2OTI1Nzc1MDA1MH0.MFFhb7VKxxhTOdtzKhNP3XDzfKjntczhi0Y1zCGfesA",
+    "player": "korbenteamtop1",
+    "language": "ru",
+    "region": "RU",
+    "mode": "REGULAR",
+    "gameplay": "ctf",
+    "arena": "spaces/07_lakeville",
+    "team": 1,
+    "tank": "ussr:R211_Object_261_4",
+    "level": 10,
+    "type": "SPG",
+    "role": "role_SPG_assault",
+    "health": 1.0,
+    "position": {
+      "x": 304,
+      "z": -279
+    },
+    "time": 60,
+    "allyFrags": 0,
+    "enemyFrags": 0,
+    "allyHealth": 22200,
+    "enemyHealth": 22200,
+    "allyMaxHealth": 22200,
+    "enemyMaxHealth": 22200,
+    "allyRoles": [
+      "role_ATSPG_support",
+      "role_HT_universal",
+      "role_MT_sniper",
+      "role_SPG_assault",
+      "role_MT_universal",
+      "role_HT_assault",
+      "role_HT_universal",
+      "role_HT_support",
+      "role_MT_assault",
+      "role_HT_support",
+      "role_HT_break",
+      "role_MT_universal",
+      "role_SPG_assault",
+      "role_ATSPG_universal",
+      "role_ATSPG_universal"
+    ],
+    "allyTypes": [
+      "AT",
+      "HT",
+      "MT",
+      "SPG",
+      "MT",
+      "HT",
+      "HT",
+      "HT",
+      "MT",
+      "HT",
+      "HT",
+      "MT",
+      "SPG",
+      "AT",
+      "AT"
+    ],
+    "allyLevels": [
+      9,
+      10,
+      9,
+      10,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      10,
+      9,
+      10,
+      9
+    ],
+    "enemyRoles": [
+      "role_ATSPG_support",
+      "role_HT_universal",
+      "role_MT_sniper",
+      "role_SPG_assault",
+      "role_MT_universal",
+      "role_HT_assault",
+      "role_HT_universal",
+      "role_HT_support",
+      "role_MT_assault",
+      "role_HT_support",
+      "role_HT_break",
+      "role_MT_universal",
+      "role_SPG_assault",
+      "role_ATSPG_universal",
+      "role_ATSPG_universal"
+    ],
+    "enemyTypes": [
+      "AT",
+      "HT",
+      "MT",
+      "SPG",
+      "MT",
+      "HT",
+      "HT",
+      "HT",
+      "MT",
+      "HT",
+      "HT",
+      "MT",
+      "SPG",
+      "AT",
+      "AT"
+    ],
+    "enemyLevels": [
+      9,
+      10,
+      9,
+      10,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      10,
+      9,
+      10,
+      9
+    ],
+    "license": "J4LR-JIM9-2ZAK-NJR8-F4D9"
+  },
+  "http_status": 200,
+  "response": {
+    "status": "ok",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsIjoiSjRMUi1KSU05LTJaQUstTkpSOC1GNEQ5IiwiZSI6MTc3MTkyNTY5NywiYyI6MTc2OTI1Nzc1MTY0M30.w_SpCWcvVTXcRcIRf3iTdvkHYXEY9q26k0k4_Tzp2Zg",
+    "positions": {
+      "polygons": [
+        {
+          "efficiency": 0.8999999999999999,
+          "area": [
+            [
+              -290,
+              195
+            ],
+            [
+              -285,
+              195
+            ],
+            [
+              -280,
+              195
+            ],
+            [
+              -280,
+              190
+            ],
+            [
+              -275,
+              190
+            ],
+            [
+              -275,
+              185
+            ],
+            [
+              -275,
+              180
+            ],
+            [
+              -275,
+              175
+            ],
+            [
+              -275,
+              170
+            ],
+            [
+              -275,
+              165
+            ],
+            [
+              -275,
+              160
+            ],
+            [
+              -270,
+              160
+            ],
+            [
+              -265,
+              160
+            ],
+            [
+              -260,
+              160
+            ],
+            [
+              -255,
+              160
+            ],
+            [
+              -250,
+              160
+            ],
+            [
+              -245,
+              160
+            ],
+            [
+              -245,
+              165
+            ],
+            [
+              -245,
+              170
+            ],
+            [
+              -245,
+              175
+            ],
+            [
+              -245,
+              180
+            ],
+            [
+              -240,
+              180
+            ],
+            [
+              -240,
+              185
+            ],
+            [
+              -240,
+              190
+            ],
+            [
+              -240,
+              195
+            ],
+            [
+              -245,
+              195
+            ],
+            [
+              -245,
+              200
+            ],
+            [
+              -245,
+              205
+            ],
+            [
+              -245,
+              210
+            ],
+            [
+              -245,
+              215
+            ],
+            [
+              -245,
+              220
+            ],
+            [
+              -250,
+              220
+            ],
+            [
+              -250,
+              225
+            ],
+            [
+              -250,
+              230
+            ],
+            [
+              -255,
+              230
+            ],
+            [
+              -255,
+              235
+            ],
+            [
+              -260,
+              235
+            ],
+            [
+              -265,
+              235
+            ],
+            [
+              -270,
+              235
+            ],
+            [
+              -275,
+              235
+            ],
+            [
+              -280,
+              235
+            ],
+            [
+              -280,
+              230
+            ],
+            [
+              -285,
+              230
+            ],
+            [
+              -290,
+              230
+            ],
+            [
+              -290,
+              225
+            ],
+            [
+              -290,
+              220
+            ],
+            [
+              -290,
+              215
+            ],
+            [
+              -290,
+              210
+            ],
+            [
+              -290,
+              205
+            ],
+            [
+              -290,
+              200
+            ]
+          ]
+        }
+      ],
+      "points": [],
+      "idealPoints": [
+        {
+          "efficiency": 1,
+          "position": [
+            -262.5,
+            207.5
+          ]
+        }
+      ],
+      "heatmap": {
+        "data": [
+          [
+            -342.5,
+            162.5,
+            0.2604202160037749
+          ],
+          [
+            -282.5,
+            212.5,
+            0.36587415499782394
+          ],
+          [
+            -277.5,
+            207.5,
+            0.37832917365901425
+          ],
+          [
+            -277.5,
+            212.5,
+            0.6237593559380193
+          ],
+          [
+            -277.5,
+            217.5,
+            0.49031256328445944
+          ],
+          [
+            -272.5,
+            207.5,
+            0.5567407701025009
+          ],
+          [
+            -272.5,
+            212.5,
+            0.8342530077223015
+          ],
+          [
+            -272.5,
+            217.5,
+            0.8207728396650773
+          ],
+          [
+            -272.5,
+            222.5,
+            0.5572457055050752
+          ],
+          [
+            -272.5,
+            227.5,
+            0.291648378607156
+          ],
+          [
+            -267.5,
+            202.5,
+            0.5204496951094665
+          ],
+          [
+            -267.5,
+            207.5,
+            0.9268563079676775
+          ],
+          [
+            -267.5,
+            212.5,
+            0.9905723321468113
+          ],
+          [
+            -267.5,
+            217.5,
+            0.9171478252567795
+          ],
+          [
+            -267.5,
+            222.5,
+            0.689682061584351
+          ],
+          [
+            -267.5,
+            227.5,
+            0.2884278618921706
+          ],
+          [
+            -262.5,
+            172.5,
+            0.5351728872643977
+          ],
+          [
+            -262.5,
+            177.5,
+            0.5315462522607686
+          ],
+          [
+            -262.5,
+            202.5,
+            0.8143028611922565
+          ],
+          [
+            -262.5,
+            207.5,
+            1
+          ],
+          [
+            -262.5,
+            212.5,
+            0.7644557664788261
+          ],
+          [
+            -262.5,
+            217.5,
+            0.5554710012182187
+          ],
+          [
+            -262.5,
+            222.5,
+            0.3982350370728532
+          ],
+          [
+            -257.5,
+            172.5,
+            0.6201697009781592
+          ],
+          [
+            -257.5,
+            177.5,
+            0.6019823350116736
+          ],
+          [
+            -257.5,
+            182.5,
+            0.2900932071720531
+          ],
+          [
+            -257.5,
+            197.5,
+            0.310908391226168
+          ],
+          [
+            -257.5,
+            202.5,
+            0.6429559688858825
+          ],
+          [
+            -257.5,
+            207.5,
+            0.6125285802525744
+          ],
+          [
+            -257.5,
+            212.5,
+            0.34834116112875246
+          ],
+          [
+            -252.5,
+            172.5,
+            0.2836054494151605
+          ],
+          [
+            -252.5,
+            177.5,
+            0.26826497284912365
+          ],
+          [
+            -252.5,
+            202.5,
+            0.2553776430278297
+          ]
+        ],
+        "step": 5
+      },
+      "popularHeatmap": {
+        "data": [],
+        "step": 5
+      },
+      "spotPoints": []
+    },
+    "statistics": {
+      "count": 861,
+      "tag": [
+        "ussr:R211_Object_261_4"
+      ],
+      "info": "s19 m4016 a4618"
+    },
+    "message": {
+      "type": "info",
+      "value": "#UQfQC x861 s19 m4016 a4618"
+    }
+  },
+  "raw_body": null
+}

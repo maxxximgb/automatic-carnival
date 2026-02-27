@@ -1,0 +1,531 @@
+{
+  "requested_at": "2026-01-24T12:29:31.756042Z",
+  "request": {
+    "id": "e109e88e-d9b7-479b-b7e6-82ee7e7feb2c",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsIjoiSjRMUi1KSU05LTJaQUstTkpSOC1GNEQ5IiwiZSI6MTc3MTkyNTY5NywiYyI6MTc2OTI1Nzc2OTQwOX0.LQTinOfvEfc7QIS4B73de3X3GPkGqzAbijnJb8Ctg-4",
+    "player": "korbenteamtop1",
+    "language": "ru",
+    "region": "RU",
+    "mode": "REGULAR",
+    "gameplay": "ctf",
+    "arena": "spaces/114_czech",
+    "team": 2,
+    "tank": "ussr:R211_Object_261_4",
+    "level": 10,
+    "type": "SPG",
+    "role": "role_SPG_assault",
+    "health": 1.0,
+    "position": {
+      "x": -67,
+      "z": -363
+    },
+    "time": 60,
+    "allyFrags": 0,
+    "enemyFrags": 0,
+    "allyHealth": 23100,
+    "enemyHealth": 23100,
+    "allyMaxHealth": 23100,
+    "enemyMaxHealth": 23100,
+    "allyRoles": [
+      "role_SPG_assault",
+      "role_MT_universal",
+      "role_HT_universal",
+      "role_ATSPG_support",
+      "role_ATSPG_support",
+      "role_ATSPG_sniper",
+      "role_LT_universal",
+      "role_LT_universal",
+      "role_MT_assault",
+      "role_HT_assault",
+      "role_ATSPG_sniper",
+      "role_MT_assault",
+      "role_MT_universal",
+      "role_HT_break",
+      "role_MT_universal"
+    ],
+    "allyTypes": [
+      "SPG",
+      "MT",
+      "HT",
+      "AT",
+      "AT",
+      "AT",
+      "LT",
+      "LT",
+      "MT",
+      "HT",
+      "AT",
+      "MT",
+      "MT",
+      "HT",
+      "MT"
+    ],
+    "allyLevels": [
+      10,
+      9,
+      9,
+      9,
+      9,
+      9,
+      10,
+      10,
+      9,
+      10,
+      10,
+      10,
+      10,
+      9,
+      9
+    ],
+    "enemyRoles": [
+      "role_SPG_assault",
+      "role_MT_universal",
+      "role_HT_universal",
+      "role_ATSPG_support",
+      "role_ATSPG_support",
+      "role_ATSPG_sniper",
+      "role_LT_universal",
+      "role_LT_universal",
+      "role_MT_assault",
+      "role_HT_assault",
+      "role_ATSPG_sniper",
+      "role_MT_assault",
+      "role_MT_universal",
+      "role_HT_break",
+      "role_MT_universal"
+    ],
+    "enemyTypes": [
+      "SPG",
+      "MT",
+      "HT",
+      "AT",
+      "AT",
+      "AT",
+      "LT",
+      "LT",
+      "MT",
+      "HT",
+      "AT",
+      "MT",
+      "MT",
+      "HT",
+      "MT"
+    ],
+    "enemyLevels": [
+      10,
+      9,
+      9,
+      9,
+      9,
+      9,
+      10,
+      10,
+      9,
+      10,
+      10,
+      10,
+      10,
+      9,
+      9
+    ],
+    "license": "J4LR-JIM9-2ZAK-NJR8-F4D9"
+  },
+  "http_status": 200,
+  "response": {
+    "status": "ok",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsIjoiSjRMUi1KSU05LTJaQUstTkpSOC1GNEQ5IiwiZSI6MTc3MTkyNTY5NywiYyI6MTc2OTI1Nzc3MTQxM30.6VGsWufM_7JrroBIi0ppdmLcF4V15HYYFVdD1Z-KA8c",
+    "positions": {
+      "polygons": [
+        {
+          "efficiency": 0.8999999999999999,
+          "area": [
+            [
+              -225,
+              -260
+            ],
+            [
+              -220,
+              -260
+            ],
+            [
+              -220,
+              -265
+            ],
+            [
+              -215,
+              -265
+            ],
+            [
+              -215,
+              -270
+            ],
+            [
+              -210,
+              -270
+            ],
+            [
+              -205,
+              -270
+            ],
+            [
+              -200,
+              -270
+            ],
+            [
+              -195,
+              -270
+            ],
+            [
+              -190,
+              -270
+            ],
+            [
+              -185,
+              -270
+            ],
+            [
+              -180,
+              -270
+            ],
+            [
+              -180,
+              -265
+            ],
+            [
+              -180,
+              -260
+            ],
+            [
+              -180,
+              -255
+            ],
+            [
+              -180,
+              -250
+            ],
+            [
+              -180,
+              -245
+            ],
+            [
+              -180,
+              -240
+            ],
+            [
+              -185,
+              -240
+            ],
+            [
+              -185,
+              -235
+            ],
+            [
+              -190,
+              -235
+            ],
+            [
+              -190,
+              -230
+            ],
+            [
+              -195,
+              -230
+            ],
+            [
+              -200,
+              -230
+            ],
+            [
+              -205,
+              -230
+            ],
+            [
+              -210,
+              -230
+            ],
+            [
+              -215,
+              -230
+            ],
+            [
+              -220,
+              -230
+            ],
+            [
+              -225,
+              -230
+            ],
+            [
+              -225,
+              -235
+            ],
+            [
+              -225,
+              -240
+            ],
+            [
+              -225,
+              -245
+            ],
+            [
+              -225,
+              -250
+            ],
+            [
+              -225,
+              -255
+            ]
+          ]
+        },
+        {
+          "efficiency": 0.42945526405025236,
+          "area": [
+            [
+              -195,
+              -95
+            ],
+            [
+              -190,
+              -95
+            ],
+            [
+              -190,
+              -100
+            ],
+            [
+              -185,
+              -100
+            ],
+            [
+              -180,
+              -100
+            ],
+            [
+              -175,
+              -100
+            ],
+            [
+              -170,
+              -100
+            ],
+            [
+              -165,
+              -100
+            ],
+            [
+              -165,
+              -95
+            ],
+            [
+              -165,
+              -90
+            ],
+            [
+              -165,
+              -85
+            ],
+            [
+              -165,
+              -80
+            ],
+            [
+              -165,
+              -75
+            ],
+            [
+              -165,
+              -70
+            ],
+            [
+              -170,
+              -70
+            ],
+            [
+              -175,
+              -70
+            ],
+            [
+              -180,
+              -70
+            ],
+            [
+              -185,
+              -70
+            ],
+            [
+              -190,
+              -70
+            ],
+            [
+              -195,
+              -70
+            ],
+            [
+              -195,
+              -75
+            ],
+            [
+              -195,
+              -80
+            ],
+            [
+              -195,
+              -85
+            ],
+            [
+              -195,
+              -90
+            ]
+          ]
+        }
+      ],
+      "points": [],
+      "idealPoints": [
+        {
+          "efficiency": 1,
+          "position": [
+            -202.5,
+            -252.5
+          ]
+        }
+      ],
+      "heatmap": {
+        "data": [
+          [
+            -212.5,
+            -252.5,
+            0.26131155095872516
+          ],
+          [
+            -212.5,
+            -247.5,
+            0.5110545118171756
+          ],
+          [
+            -212.5,
+            -242.5,
+            0.3935795545414203
+          ],
+          [
+            -207.5,
+            -252.5,
+            0.648484714946202
+          ],
+          [
+            -207.5,
+            -247.5,
+            0.8158176382992323
+          ],
+          [
+            -207.5,
+            -242.5,
+            0.4389239517259565
+          ],
+          [
+            -207.5,
+            -142.5,
+            0.290161606601423
+          ],
+          [
+            -202.5,
+            -257.5,
+            0.458986232650651
+          ],
+          [
+            -202.5,
+            -252.5,
+            1
+          ],
+          [
+            -202.5,
+            -247.5,
+            0.9456123493810362
+          ],
+          [
+            -202.5,
+            -242.5,
+            0.3674011010601595
+          ],
+          [
+            -197.5,
+            -257.5,
+            0.5735398210080429
+          ],
+          [
+            -197.5,
+            -252.5,
+            0.9096316159655163
+          ],
+          [
+            -197.5,
+            -247.5,
+            0.7259703429733388
+          ],
+          [
+            -197.5,
+            -242.5,
+            0.2712547326473984
+          ],
+          [
+            -192.5,
+            -257.5,
+            0.39498454424135543
+          ],
+          [
+            -192.5,
+            -252.5,
+            0.4434602372169297
+          ],
+          [
+            -192.5,
+            -247.5,
+            0.2545409597709518
+          ],
+          [
+            -182.5,
+            -87.5,
+            0.29811050484888585
+          ],
+          [
+            -182.5,
+            -82.5,
+            0.387814256886833
+          ],
+          [
+            -177.5,
+            -87.5,
+            0.386424856453097
+          ],
+          [
+            -177.5,
+            -82.5,
+            0.4388204962878563
+          ],
+          [
+            597.5,
+            -297.5,
+            0.3325695300041086
+          ]
+        ],
+        "step": 5
+      },
+      "popularHeatmap": {
+        "data": [],
+        "step": 5
+      },
+      "spotPoints": []
+    },
+    "statistics": {
+      "count": 543,
+      "tag": [
+        "ussr:R211_Object_261_4"
+      ],
+      "info": "s19 m2774 a3425"
+    },
+    "message": {
+      "type": "info",
+      "value": "#DXIl6 x543 s19 m2774 a3425"
+    }
+  },
+  "raw_body": null
+}

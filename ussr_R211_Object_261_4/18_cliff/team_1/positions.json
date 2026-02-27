@@ -1,0 +1,603 @@
+{
+  "requested_at": "2026-01-24T12:29:59.280336Z",
+  "request": {
+    "id": "29aba6fd-368a-44c1-b60b-602bce91d120",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsIjoiSjRMUi1KSU05LTJaQUstTkpSOC1GNEQ5IiwiZSI6MTc3MTkyNTY5NywiYyI6MTc2OTI1Nzc5Njc5NH0.HzmEunfMPw7JalkUcsqbUbctqQ6vsVts8BdamaNN7ow",
+    "player": "korbenteamtop1",
+    "language": "ru",
+    "region": "RU",
+    "mode": "REGULAR",
+    "gameplay": "ctf",
+    "arena": "spaces/18_cliff",
+    "team": 1,
+    "tank": "ussr:R211_Object_261_4",
+    "level": 10,
+    "type": "SPG",
+    "role": "role_SPG_assault",
+    "health": 1.0,
+    "position": {
+      "x": -216,
+      "z": 385
+    },
+    "time": 60,
+    "allyFrags": 0,
+    "enemyFrags": 0,
+    "allyHealth": 24000,
+    "enemyHealth": 24000,
+    "allyMaxHealth": 24000,
+    "enemyMaxHealth": 24000,
+    "allyRoles": [
+      "role_SPG",
+      "role_ATSPG_assault",
+      "role_MT_assault",
+      "role_MT_sniper",
+      "role_MT_universal",
+      "role_SPG_assault",
+      "role_LT_wheeled",
+      "role_LT_wheeled",
+      "role_HT_universal",
+      "role_ATSPG_sniper",
+      "role_HT_assault",
+      "role_MT_universal",
+      "role_HT_assault",
+      "role_HT_break",
+      "role_MT_universal"
+    ],
+    "allyTypes": [
+      "SPG",
+      "AT",
+      "MT",
+      "MT",
+      "MT",
+      "SPG",
+      "LT",
+      "LT",
+      "HT",
+      "AT",
+      "HT",
+      "MT",
+      "HT",
+      "HT",
+      "MT"
+    ],
+    "allyLevels": [
+      10,
+      10,
+      10,
+      10,
+      9,
+      10,
+      9,
+      10,
+      9,
+      9,
+      10,
+      10,
+      10,
+      9,
+      10
+    ],
+    "enemyRoles": [
+      "role_SPG",
+      "role_ATSPG_assault",
+      "role_MT_assault",
+      "role_MT_sniper",
+      "role_MT_universal",
+      "role_SPG_assault",
+      "role_LT_wheeled",
+      "role_LT_wheeled",
+      "role_HT_universal",
+      "role_ATSPG_sniper",
+      "role_HT_assault",
+      "role_MT_universal",
+      "role_HT_assault",
+      "role_HT_break",
+      "role_MT_universal"
+    ],
+    "enemyTypes": [
+      "SPG",
+      "AT",
+      "MT",
+      "MT",
+      "MT",
+      "SPG",
+      "LT",
+      "LT",
+      "HT",
+      "AT",
+      "HT",
+      "MT",
+      "HT",
+      "HT",
+      "MT"
+    ],
+    "enemyLevels": [
+      10,
+      10,
+      10,
+      10,
+      9,
+      10,
+      9,
+      10,
+      9,
+      9,
+      10,
+      10,
+      10,
+      9,
+      10
+    ],
+    "license": "J4LR-JIM9-2ZAK-NJR8-F4D9"
+  },
+  "http_status": 200,
+  "response": {
+    "status": "ok",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsIjoiSjRMUi1KSU05LTJaQUstTkpSOC1GNEQ5IiwiZSI6MTc3MTkyNTY5NywiYyI6MTc2OTI1Nzc5ODUzMn0.2UUAlU9Udpwc_hdT0ucs-fHOTycZZleLMuJQUmzZI6Q",
+    "positions": {
+      "polygons": [
+        {
+          "efficiency": 0.70412780321754,
+          "area": [
+            [
+              -105,
+              -275
+            ],
+            [
+              -100,
+              -275
+            ],
+            [
+              -95,
+              -275
+            ],
+            [
+              -90,
+              -275
+            ],
+            [
+              -85,
+              -275
+            ],
+            [
+              -80,
+              -275
+            ],
+            [
+              -75,
+              -275
+            ],
+            [
+              -75,
+              -270
+            ],
+            [
+              -70,
+              -270
+            ],
+            [
+              -65,
+              -270
+            ],
+            [
+              -65,
+              -265
+            ],
+            [
+              -60,
+              -265
+            ],
+            [
+              -55,
+              -265
+            ],
+            [
+              -50,
+              -265
+            ],
+            [
+              -45,
+              -265
+            ],
+            [
+              -40,
+              -265
+            ],
+            [
+              -40,
+              -260
+            ],
+            [
+              -40,
+              -255
+            ],
+            [
+              -40,
+              -250
+            ],
+            [
+              -40,
+              -245
+            ],
+            [
+              -40,
+              -240
+            ],
+            [
+              -40,
+              -235
+            ],
+            [
+              -45,
+              -235
+            ],
+            [
+              -50,
+              -235
+            ],
+            [
+              -55,
+              -235
+            ],
+            [
+              -60,
+              -235
+            ],
+            [
+              -65,
+              -235
+            ],
+            [
+              -70,
+              -235
+            ],
+            [
+              -75,
+              -235
+            ],
+            [
+              -75,
+              -240
+            ],
+            [
+              -80,
+              -240
+            ],
+            [
+              -85,
+              -240
+            ],
+            [
+              -90,
+              -240
+            ],
+            [
+              -95,
+              -240
+            ],
+            [
+              -100,
+              -240
+            ],
+            [
+              -100,
+              -245
+            ],
+            [
+              -105,
+              -245
+            ],
+            [
+              -105,
+              -250
+            ],
+            [
+              -105,
+              -255
+            ],
+            [
+              -105,
+              -260
+            ],
+            [
+              -105,
+              -265
+            ],
+            [
+              -105,
+              -270
+            ]
+          ]
+        },
+        {
+          "efficiency": 0.8999999999999999,
+          "area": [
+            [
+              -45,
+              -180
+            ],
+            [
+              -40,
+              -180
+            ],
+            [
+              -40,
+              -185
+            ],
+            [
+              -35,
+              -185
+            ],
+            [
+              -30,
+              -185
+            ],
+            [
+              -25,
+              -185
+            ],
+            [
+              -20,
+              -185
+            ],
+            [
+              -20,
+              -180
+            ],
+            [
+              -15,
+              -180
+            ],
+            [
+              -10,
+              -180
+            ],
+            [
+              -5,
+              -180
+            ],
+            [
+              -5,
+              -175
+            ],
+            [
+              -5,
+              -170
+            ],
+            [
+              0,
+              -170
+            ],
+            [
+              0,
+              -165
+            ],
+            [
+              0,
+              -160
+            ],
+            [
+              0,
+              -155
+            ],
+            [
+              0,
+              -150
+            ],
+            [
+              0,
+              -145
+            ],
+            [
+              -5,
+              -145
+            ],
+            [
+              -5,
+              -140
+            ],
+            [
+              -10,
+              -140
+            ],
+            [
+              -15,
+              -140
+            ],
+            [
+              -20,
+              -140
+            ],
+            [
+              -25,
+              -140
+            ],
+            [
+              -25,
+              -145
+            ],
+            [
+              -30,
+              -145
+            ],
+            [
+              -35,
+              -145
+            ],
+            [
+              -40,
+              -145
+            ],
+            [
+              -40,
+              -150
+            ],
+            [
+              -40,
+              -155
+            ],
+            [
+              -40,
+              -160
+            ],
+            [
+              -40,
+              -165
+            ],
+            [
+              -45,
+              -165
+            ],
+            [
+              -45,
+              -170
+            ],
+            [
+              -45,
+              -175
+            ]
+          ]
+        }
+      ],
+      "points": [],
+      "idealPoints": [
+        {
+          "efficiency": 1,
+          "position": [
+            -22.5,
+            -162.5
+          ]
+        },
+        {
+          "efficiency": 0.7074735943667982,
+          "position": [
+            -57.5,
+            -252.5
+          ]
+        }
+      ],
+      "heatmap": {
+        "data": [
+          [
+            -92.5,
+            -262.5,
+            0.28139074619953786
+          ],
+          [
+            -92.5,
+            -257.5,
+            0.34000025370195014
+          ],
+          [
+            -87.5,
+            -262.5,
+            0.32830708800227065
+          ],
+          [
+            -87.5,
+            -257.5,
+            0.3968239730471309
+          ],
+          [
+            -62.5,
+            -252.5,
+            0.28212925293217006
+          ],
+          [
+            -57.5,
+            -252.5,
+            0.4329182011090872
+          ],
+          [
+            -57.5,
+            -247.5,
+            0.3591424008346063
+          ],
+          [
+            -52.5,
+            -252.5,
+            0.27485331640774746
+          ],
+          [
+            -52.5,
+            -247.5,
+            0.2567635941967609
+          ],
+          [
+            -27.5,
+            -167.5,
+            0.47711151237033694
+          ],
+          [
+            -27.5,
+            -162.5,
+            0.5579843157758906
+          ],
+          [
+            -27.5,
+            -157.5,
+            0.2577278595581599
+          ],
+          [
+            -22.5,
+            -167.5,
+            0.7069473596892248
+          ],
+          [
+            -22.5,
+            -162.5,
+            1
+          ],
+          [
+            -22.5,
+            -157.5,
+            0.5970885792353106
+          ],
+          [
+            -17.5,
+            -167.5,
+            0.43853456670941665
+          ],
+          [
+            -17.5,
+            -162.5,
+            0.7480571783617387
+          ],
+          [
+            -17.5,
+            -157.5,
+            0.615766525374488
+          ],
+          [
+            -12.5,
+            -157.5,
+            0.29447423558188757
+          ],
+          [
+            -12.5,
+            -152.5,
+            0.26755464619284725
+          ]
+        ],
+        "step": 5
+      },
+      "popularHeatmap": {
+        "data": [],
+        "step": 5
+      },
+      "spotPoints": []
+    },
+    "statistics": {
+      "count": 537,
+      "tag": [
+        "ussr:R211_Object_261_4"
+      ],
+      "info": "s19 m3052 a3552"
+    },
+    "message": {
+      "type": "info",
+      "value": "#KgivJ x537 s19 m3052 a3552"
+    }
+  },
+  "raw_body": null
+}

@@ -1,0 +1,162 @@
+{
+  "requested_at": "2026-01-24T10:56:22.617274Z",
+  "request": {
+    "id": "2f2bb9dc-e972-47ad-9c37-9433968203b6",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsIjoiSjRMUi1KSU05LTJaQUstTkpSOC1GNEQ5IiwiZSI6MTc3MTkyNTY5NywiYyI6MTc2OTI1MjE3ODc1M30.GJAKY43kUjanwU6Rhn-7wpXj4lEorLlFx0PBc7-6_lk",
+    "player": "korbenteamtop1",
+    "language": "ru",
+    "region": "RU",
+    "mode": "REGULAR",
+    "gameplay": "ctf",
+    "arena": "spaces/03_campania_big",
+    "team": 1,
+    "tank": "france:F28_105_leFH18B2",
+    "level": 5,
+    "type": "SPG",
+    "role": "",
+    "health": 1.0,
+    "position": {
+      "x": -258,
+      "z": -275
+    },
+    "time": 60,
+    "allyFrags": 0,
+    "enemyFrags": 0,
+    "allyHealth": 9600,
+    "enemyHealth": 9600,
+    "allyMaxHealth": 9600,
+    "enemyMaxHealth": 9600,
+    "allyRoles": [
+      "role_MT_sniper",
+      "role_LT_universal",
+      "role_ATSPG_universal",
+      "role_SPG",
+      "role_MT_assault",
+      "role_ATSPG_sniper",
+      "role_MT_support",
+      "role_ATSPG_support",
+      "role_HT_break",
+      "role_MT_assault",
+      "",
+      "role_LT_universal",
+      "role_ATSPG_support",
+      "role_ATSPG_assault",
+      "role_ATSPG_assault"
+    ],
+    "allyTypes": [
+      "MT",
+      "LT",
+      "AT",
+      "SPG",
+      "MT",
+      "AT",
+      "MT",
+      "AT",
+      "HT",
+      "MT",
+      "SPG",
+      "LT",
+      "AT",
+      "AT",
+      "AT"
+    ],
+    "allyLevels": [
+      4,
+      6,
+      4,
+      4,
+      6,
+      5,
+      6,
+      6,
+      5,
+      6,
+      5,
+      5,
+      4,
+      6,
+      5
+    ],
+    "enemyRoles": [
+      "role_MT_sniper",
+      "role_LT_universal",
+      "role_ATSPG_universal",
+      "role_SPG",
+      "role_MT_assault",
+      "role_ATSPG_sniper",
+      "role_MT_support",
+      "role_ATSPG_support",
+      "role_HT_break",
+      "role_MT_assault",
+      "",
+      "role_LT_universal",
+      "role_ATSPG_support",
+      "role_ATSPG_assault",
+      "role_ATSPG_assault"
+    ],
+    "enemyTypes": [
+      "MT",
+      "LT",
+      "AT",
+      "SPG",
+      "MT",
+      "AT",
+      "MT",
+      "AT",
+      "HT",
+      "MT",
+      "SPG",
+      "LT",
+      "AT",
+      "AT",
+      "AT"
+    ],
+    "enemyLevels": [
+      4,
+      6,
+      4,
+      4,
+      6,
+      5,
+      6,
+      6,
+      5,
+      6,
+      5,
+      5,
+      4,
+      6,
+      5
+    ],
+    "license": "J4LR-JIM9-2ZAK-NJR8-F4D9"
+  },
+  "http_status": 200,
+  "response": {
+    "status": "ok",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsIjoiSjRMUi1KSU05LTJaQUstTkpSOC1GNEQ5IiwiZSI6MTc3MTkyNTY5NywiYyI6MTc2OTI1MjE4MTk3NH0.ynQGkhl3-u3MIRPDTLO4RZ0kyhcHjP9FnnwA6UMZp1A",
+    "positions": {
+      "polygons": [],
+      "points": [],
+      "idealPoints": [],
+      "heatmap": {
+        "data": [],
+        "step": 5
+      },
+      "popularHeatmap": {
+        "data": [],
+        "step": 5
+      },
+      "spotPoints": []
+    },
+    "statistics": {},
+    "message": {
+      "type": "info",
+      "value": "#kRqlN \u041d\u0435\u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u0434\u0430\u043d\u043d\u044b\u0445 :("
+    },
+    "commands": [
+      "PAUSE_REQUESTER",
+      "SKIP_REDRAW"
+    ]
+  },
+  "raw_body": null
+}

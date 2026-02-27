@@ -1,0 +1,429 @@
+{
+  "requested_at": "2026-01-24T12:24:19.128384Z",
+  "request": {
+    "id": "885f38e6-b2b9-43d4-a8f9-9d4f956d90b8",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsIjoiSjRMUi1KSU05LTJaQUstTkpSOC1GNEQ5IiwiZSI6MTc3MTkyNTY5NywiYyI6MTc2OTI1NzQ1Njg2MX0.Q0NiVTe8qVqKPV508LO6YqB3agWAKjY0Njppd9tV5_M",
+    "player": "korbenteamtop1",
+    "language": "ru",
+    "region": "RU",
+    "mode": "REGULAR",
+    "gameplay": "ctf",
+    "arena": "spaces/07_lakeville",
+    "team": 1,
+    "tank": "ussr:R210_ISU_2SH",
+    "level": 8,
+    "type": "SPG",
+    "role": "role_SPG_assault",
+    "health": 1.0,
+    "position": {
+      "x": 304,
+      "z": -279
+    },
+    "time": 60,
+    "allyFrags": 0,
+    "enemyFrags": 0,
+    "allyHealth": 19200,
+    "enemyHealth": 19200,
+    "allyMaxHealth": 19200,
+    "enemyMaxHealth": 19200,
+    "allyRoles": [
+      "role_LT_universal",
+      "role_MT_support",
+      "role_ATSPG_support",
+      "role_HT_assault",
+      "role_HT_assault",
+      "role_HT_support",
+      "role_MT_sniper",
+      "role_MT_universal",
+      "role_MT_assault",
+      "role_SPG_assault",
+      "role_MT_sniper",
+      "role_HT_universal",
+      "role_SPG_assault",
+      "role_MT_sniper",
+      "role_ATSPG_universal"
+    ],
+    "allyTypes": [
+      "LT",
+      "MT",
+      "AT",
+      "HT",
+      "HT",
+      "HT",
+      "MT",
+      "MT",
+      "MT",
+      "SPG",
+      "MT",
+      "HT",
+      "SPG",
+      "MT",
+      "AT"
+    ],
+    "allyLevels": [
+      9,
+      9,
+      9,
+      8,
+      7,
+      9,
+      8,
+      8,
+      9,
+      8,
+      9,
+      9,
+      7,
+      8,
+      9
+    ],
+    "enemyRoles": [
+      "role_LT_universal",
+      "role_MT_support",
+      "role_ATSPG_support",
+      "role_HT_assault",
+      "role_HT_assault",
+      "role_HT_support",
+      "role_MT_sniper",
+      "role_MT_universal",
+      "role_MT_assault",
+      "role_SPG_assault",
+      "role_MT_sniper",
+      "role_HT_universal",
+      "role_SPG_assault",
+      "role_MT_sniper",
+      "role_ATSPG_universal"
+    ],
+    "enemyTypes": [
+      "LT",
+      "MT",
+      "AT",
+      "HT",
+      "HT",
+      "HT",
+      "MT",
+      "MT",
+      "MT",
+      "SPG",
+      "MT",
+      "HT",
+      "SPG",
+      "MT",
+      "AT"
+    ],
+    "enemyLevels": [
+      9,
+      9,
+      9,
+      8,
+      7,
+      9,
+      8,
+      8,
+      9,
+      8,
+      9,
+      9,
+      7,
+      8,
+      9
+    ],
+    "license": "J4LR-JIM9-2ZAK-NJR8-F4D9"
+  },
+  "http_status": 200,
+  "response": {
+    "status": "ok",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsIjoiSjRMUi1KSU05LTJaQUstTkpSOC1GNEQ5IiwiZSI6MTc3MTkyNTY5NywiYyI6MTc2OTI1NzQ1ODQ5MH0.sBlXvx5TXU2PZjP0W-R1vHd9rgLgmKgr7_Dm5Ej9ZqY",
+    "positions": {
+      "polygons": [
+        {
+          "efficiency": 0.8999999999999999,
+          "area": [
+            [
+              -280,
+              195
+            ],
+            [
+              -275,
+              195
+            ],
+            [
+              -275,
+              190
+            ],
+            [
+              -270,
+              190
+            ],
+            [
+              -270,
+              185
+            ],
+            [
+              -270,
+              180
+            ],
+            [
+              -270,
+              175
+            ],
+            [
+              -265,
+              175
+            ],
+            [
+              -260,
+              175
+            ],
+            [
+              -255,
+              175
+            ],
+            [
+              -250,
+              175
+            ],
+            [
+              -245,
+              175
+            ],
+            [
+              -240,
+              175
+            ],
+            [
+              -240,
+              180
+            ],
+            [
+              -240,
+              185
+            ],
+            [
+              -240,
+              190
+            ],
+            [
+              -235,
+              190
+            ],
+            [
+              -235,
+              195
+            ],
+            [
+              -235,
+              200
+            ],
+            [
+              -235,
+              205
+            ],
+            [
+              -235,
+              210
+            ],
+            [
+              -235,
+              215
+            ],
+            [
+              -240,
+              215
+            ],
+            [
+              -240,
+              220
+            ],
+            [
+              -240,
+              225
+            ],
+            [
+              -245,
+              225
+            ],
+            [
+              -245,
+              230
+            ],
+            [
+              -250,
+              230
+            ],
+            [
+              -255,
+              230
+            ],
+            [
+              -260,
+              230
+            ],
+            [
+              -265,
+              230
+            ],
+            [
+              -270,
+              230
+            ],
+            [
+              -275,
+              230
+            ],
+            [
+              -280,
+              230
+            ],
+            [
+              -280,
+              225
+            ],
+            [
+              -280,
+              220
+            ],
+            [
+              -280,
+              215
+            ],
+            [
+              -280,
+              210
+            ],
+            [
+              -280,
+              205
+            ],
+            [
+              -280,
+              200
+            ]
+          ]
+        }
+      ],
+      "points": [],
+      "idealPoints": [
+        {
+          "efficiency": 1,
+          "position": [
+            -257.5,
+            207.5
+          ]
+        }
+      ],
+      "heatmap": {
+        "data": [
+          [
+            -267.5,
+            207.5,
+            0.3172196722601078
+          ],
+          [
+            -267.5,
+            212.5,
+            0.4401187318577804
+          ],
+          [
+            -267.5,
+            217.5,
+            0.3043619293003155
+          ],
+          [
+            -262.5,
+            202.5,
+            0.30033863393880667
+          ],
+          [
+            -262.5,
+            207.5,
+            0.7907106234786693
+          ],
+          [
+            -262.5,
+            212.5,
+            0.9042299230361966
+          ],
+          [
+            -262.5,
+            217.5,
+            0.4662172861399329
+          ],
+          [
+            -257.5,
+            172.5,
+            0.323379499088088
+          ],
+          [
+            -257.5,
+            177.5,
+            0.32299881520454177
+          ],
+          [
+            -257.5,
+            202.5,
+            0.5732508809313802
+          ],
+          [
+            -257.5,
+            207.5,
+            1
+          ],
+          [
+            -257.5,
+            212.5,
+            0.8857224392426963
+          ],
+          [
+            -257.5,
+            217.5,
+            0.36024891383961455
+          ],
+          [
+            -252.5,
+            197.5,
+            0.26515969141159085
+          ],
+          [
+            -252.5,
+            202.5,
+            0.5528661166849923
+          ],
+          [
+            -252.5,
+            207.5,
+            0.6657238705920303
+          ],
+          [
+            -252.5,
+            212.5,
+            0.41405391665913077
+          ],
+          [
+            -247.5,
+            202.5,
+            0.25770606669535884
+          ]
+        ],
+        "step": 5
+      },
+      "popularHeatmap": {
+        "data": [],
+        "step": 5
+      },
+      "spotPoints": []
+    },
+    "statistics": {
+      "count": 313,
+      "tag": [
+        "ussr:R210_ISU_2SH"
+      ],
+      "info": "s18 m2695 a3158"
+    },
+    "message": {
+      "type": "info",
+      "value": "#gKX5I x313 s18 m2695 a3158"
+    }
+  },
+  "raw_body": null
+}

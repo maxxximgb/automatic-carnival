@@ -1,0 +1,450 @@
+{
+  "requested_at": "2026-01-24T12:29:48.419490Z",
+  "request": {
+    "id": "ad01f854-0179-4177-9f1b-9177ddea18fd",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsIjoiSjRMUi1KSU05LTJaQUstTkpSOC1GNEQ5IiwiZSI6MTc3MTkyNTY5NywiYyI6MTc2OTI1Nzc4NjEyMn0.AebNI_Dj_7jz2muDSvQTD2W_us_oZgvkZZA3MP_LMHg",
+    "player": "korbenteamtop1",
+    "language": "ru",
+    "region": "RU",
+    "mode": "REGULAR",
+    "gameplay": "ctf",
+    "arena": "spaces/128_last_frontier_v",
+    "team": 1,
+    "tank": "ussr:R211_Object_261_4",
+    "level": 10,
+    "type": "SPG",
+    "role": "role_SPG_assault",
+    "health": 1.0,
+    "position": {
+      "x": 364,
+      "z": 233
+    },
+    "time": 60,
+    "allyFrags": 0,
+    "enemyFrags": 0,
+    "allyHealth": 22200,
+    "enemyHealth": 22200,
+    "allyMaxHealth": 22200,
+    "enemyMaxHealth": 22200,
+    "allyRoles": [
+      "role_MT_sniper",
+      "role_MT_support",
+      "role_ATSPG_universal",
+      "role_MT_support",
+      "role_ATSPG_sniper",
+      "role_SPG_assault",
+      "role_MT_sniper",
+      "role_MT_assault",
+      "role_MT_universal",
+      "role_MT_sniper",
+      "role_ATSPG_support",
+      "role_ATSPG_support",
+      "role_LT_universal",
+      "role_MT_sniper",
+      "role_SPG_assault"
+    ],
+    "allyTypes": [
+      "MT",
+      "MT",
+      "AT",
+      "MT",
+      "AT",
+      "SPG",
+      "MT",
+      "MT",
+      "MT",
+      "MT",
+      "AT",
+      "AT",
+      "LT",
+      "MT",
+      "SPG"
+    ],
+    "allyLevels": [
+      9,
+      9,
+      9,
+      9,
+      9,
+      10,
+      9,
+      9,
+      9,
+      9,
+      10,
+      10,
+      9,
+      9,
+      10
+    ],
+    "enemyRoles": [
+      "role_MT_sniper",
+      "role_MT_support",
+      "role_ATSPG_universal",
+      "role_MT_support",
+      "role_ATSPG_sniper",
+      "role_SPG_assault",
+      "role_MT_sniper",
+      "role_MT_assault",
+      "role_MT_universal",
+      "role_MT_sniper",
+      "role_ATSPG_support",
+      "role_ATSPG_support",
+      "role_LT_universal",
+      "role_MT_sniper",
+      "role_SPG_assault"
+    ],
+    "enemyTypes": [
+      "MT",
+      "MT",
+      "AT",
+      "MT",
+      "AT",
+      "SPG",
+      "MT",
+      "MT",
+      "MT",
+      "MT",
+      "AT",
+      "AT",
+      "LT",
+      "MT",
+      "SPG"
+    ],
+    "enemyLevels": [
+      9,
+      9,
+      9,
+      9,
+      9,
+      10,
+      9,
+      9,
+      9,
+      9,
+      10,
+      10,
+      9,
+      9,
+      10
+    ],
+    "license": "J4LR-JIM9-2ZAK-NJR8-F4D9"
+  },
+  "http_status": 200,
+  "response": {
+    "status": "ok",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsIjoiSjRMUi1KSU05LTJaQUstTkpSOC1GNEQ5IiwiZSI6MTc3MTkyNTY5NywiYyI6MTc2OTI1Nzc4NzY4Mn0.DZt-UGQpvQJW0cMYldg9MHRlJ1Smtw5TPd3bEKM6ggM",
+    "positions": {
+      "polygons": [
+        {
+          "efficiency": 0.393342408277344,
+          "area": [
+            [
+              -105,
+              230
+            ],
+            [
+              -100,
+              230
+            ],
+            [
+              -95,
+              230
+            ],
+            [
+              -90,
+              230
+            ],
+            [
+              -85,
+              230
+            ],
+            [
+              -80,
+              230
+            ],
+            [
+              -80,
+              235
+            ],
+            [
+              -75,
+              235
+            ],
+            [
+              -75,
+              240
+            ],
+            [
+              -75,
+              245
+            ],
+            [
+              -75,
+              250
+            ],
+            [
+              -80,
+              250
+            ],
+            [
+              -80,
+              255
+            ],
+            [
+              -85,
+              255
+            ],
+            [
+              -90,
+              255
+            ],
+            [
+              -95,
+              255
+            ],
+            [
+              -100,
+              255
+            ],
+            [
+              -100,
+              250
+            ],
+            [
+              -105,
+              250
+            ],
+            [
+              -105,
+              245
+            ],
+            [
+              -105,
+              240
+            ],
+            [
+              -105,
+              235
+            ]
+          ]
+        },
+        {
+          "efficiency": 0.8999999999999999,
+          "area": [
+            [
+              -50,
+              270
+            ],
+            [
+              -45,
+              270
+            ],
+            [
+              -40,
+              270
+            ],
+            [
+              -35,
+              270
+            ],
+            [
+              -30,
+              270
+            ],
+            [
+              -25,
+              270
+            ],
+            [
+              -20,
+              270
+            ],
+            [
+              -15,
+              270
+            ],
+            [
+              -10,
+              270
+            ],
+            [
+              -5,
+              270
+            ],
+            [
+              -5,
+              275
+            ],
+            [
+              -5,
+              280
+            ],
+            [
+              -5,
+              285
+            ],
+            [
+              -5,
+              290
+            ],
+            [
+              -5,
+              295
+            ],
+            [
+              -5,
+              300
+            ],
+            [
+              -10,
+              300
+            ],
+            [
+              -10,
+              305
+            ],
+            [
+              -15,
+              305
+            ],
+            [
+              -20,
+              305
+            ],
+            [
+              -25,
+              305
+            ],
+            [
+              -30,
+              305
+            ],
+            [
+              -35,
+              305
+            ],
+            [
+              -40,
+              305
+            ],
+            [
+              -45,
+              305
+            ],
+            [
+              -50,
+              305
+            ],
+            [
+              -50,
+              300
+            ],
+            [
+              -50,
+              295
+            ],
+            [
+              -50,
+              290
+            ],
+            [
+              -50,
+              285
+            ],
+            [
+              -50,
+              280
+            ],
+            [
+              -50,
+              275
+            ]
+          ]
+        }
+      ],
+      "points": [],
+      "idealPoints": [
+        {
+          "efficiency": 1,
+          "position": [
+            -27.5,
+            287.5
+          ]
+        }
+      ],
+      "heatmap": {
+        "data": [
+          [
+            -32.5,
+            282.5,
+            0.3530954727833718
+          ],
+          [
+            -32.5,
+            287.5,
+            0.5821560165658631
+          ],
+          [
+            -32.5,
+            292.5,
+            0.3530954727833718
+          ],
+          [
+            -27.5,
+            282.5,
+            0.6500804080746424
+          ],
+          [
+            -27.5,
+            287.5,
+            1
+          ],
+          [
+            -27.5,
+            292.5,
+            0.5811857205759237
+          ],
+          [
+            -22.5,
+            282.5,
+            0.5820842506997511
+          ],
+          [
+            -22.5,
+            287.5,
+            0.8241758863500919
+          ],
+          [
+            -22.5,
+            292.5,
+            0.4520516082163122
+          ],
+          [
+            -17.5,
+            287.5,
+            0.2539659742583236
+          ]
+        ],
+        "step": 5
+      },
+      "popularHeatmap": {
+        "data": [],
+        "step": 5
+      },
+      "spotPoints": []
+    },
+    "statistics": {
+      "count": 553,
+      "tag": [
+        "ussr:R211_Object_261_4"
+      ],
+      "info": "s19 m3199 a3955"
+    },
+    "message": {
+      "type": "info",
+      "value": "#FBvVP x553 s19 m3199 a3955"
+    }
+  },
+  "raw_body": null
+}
